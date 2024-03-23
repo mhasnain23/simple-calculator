@@ -4,8 +4,8 @@
     "chalk": "^5.3.0",
     "inquirer": "^9.2.16"
   },
-  "name": "m6ra3-simple-calculator",
-  "version": "1.0.3",
+  "name": "@hasnain23/mf6ra3-simple-calculator",
+  "version": "1.0.8",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
